@@ -1,2 +1,4 @@
 master
 haha
+sky master test
+sky master test for no id and pin
