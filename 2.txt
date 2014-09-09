@@ -1,1 +1,2 @@
 skytest on test
+sky test 是否不需要密码
